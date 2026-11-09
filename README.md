@@ -1,16 +1,63 @@
-## Hi there 👋
+# 你好，我是吴冬俊 👋
 
-<!--
-**520wdj/520wdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 36 岁 · 电工 · 正在学 C# 上位机开发 · 坐标上海（UTC+8）
 
-Here are some ideas to get you started:
+干了多年电气现场，现在想把「接线、调试、看图纸」的手上经验，和「写程序、做界面、采数据」接起来。
+目标不是转成纯程序员，而是成为**能自己写工具解决现场问题的电工**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕒 我的作息
+
+| 时间 | 安排 |
+| --- | --- |
+| 08:30 - 11:30 | 工作 |
+| 11:30 - 12:30 | 午休 |
+| 12:30 - 17:00 | 工作 |
+| 17:00 - 17:30 | 晚饭 |
+| 17:30 - 20:30 | 工作 |
+| 20:30 之后 | 自学窗口（每天固定投入，不求快，求弄懂） |
+
+## 🛠 技术栈
+
+**现有基础**
+
+- 电气回路、设备接线与调试
+- 传感器、继电器、接触器、变频器现场使用
+- PLC 基础认知与现场故障排查
+
+**正在学习**
+
+- 语言：C#（.NET）
+- 方向：工控上位机开发
+- 工具：Visual Studio / VS Code、Claude Code（辅助写代码、查报错）
+- 后续计划：串口 SerialPort → Modbus RTU → WPF 界面 → 数据采集与展示
+
+## 🎯 当前目标
+
+1. 打牢 C# 基础语法与面向对象，能独立看懂一段代码
+2. 写通串口收发 Demo，能自己改参数、加功能
+3. 掌握 Modbus RTU 报文收发与数据解析
+4. 用 WPF 做一个能看数值、能下指令的简易监控界面
+
+## 📌 我的学习原则
+
+- 以现场实际需求为导向，拒绝无目的囤课、囤资料
+- 先写最小可运行 Demo，跑通了再迭代，不追求一步到位
+- 善用 AI 辅助排查和梳理思路，但核心逻辑必须自己吃透
+- 稳扎稳打，不急于求成，让电气经验成为写程序的优势
+
+## 📂 仓库规划
+
+| 仓库 | 内容 |
+| --- | --- |
+| [my-cli-tool](https://github.com/520wdj/my-cli-tool) | C# 基础练习、命令行小工具 |
+| serial-demo | 串口收发调试程序（规划中）|
+| modbus-demo | Modbus RTU 读写测试（规划中）|
+| wpf-scada-demo | WPF 上位机界面练习（规划中）|
+
+## 📊 GitHub 数据
+
+![520wdj's GitHub stats](https://github-readme-stats.vercel.app/api?username=520wdj&show_icons=true&theme=default)
+
+---
+
+> 一步一步来，先把第一个 Demo 跑通。
